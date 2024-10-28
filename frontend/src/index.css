@@ -1,0 +1,14 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+input, textarea, button {
+  display: block;
+  margin: 10px 0;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
